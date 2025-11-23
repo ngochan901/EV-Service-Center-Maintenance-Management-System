@@ -1,0 +1,17 @@
+{
+  "/dashboard/admin/page": "app/dashboard/admin/page.js",
+  "/dashboard/admin/reports/page": "app/dashboard/admin/reports/page.js",
+  "/dashboard/admin/services/page": "app/dashboard/admin/services/page.js",
+  "/dashboard/admin/users/page": "app/dashboard/admin/users/page.js",
+  "/dashboard/customer/booking/page": "app/dashboard/customer/booking/page.js",
+  "/dashboard/customer/page": "app/dashboard/customer/page.js",
+  "/dashboard/customer/vehicles/page": "app/dashboard/customer/vehicles/page.js",
+  "/dashboard/staff/bookings/page": "app/dashboard/staff/bookings/page.js",
+  "/dashboard/staff/inventory/page": "app/dashboard/staff/inventory/page.js",
+  "/dashboard/staff/page": "app/dashboard/staff/page.js",
+  "/dashboard/staff/services/page": "app/dashboard/staff/services/page.js",
+  "/dashboard/technician/orders/page": "app/dashboard/technician/orders/page.js",
+  "/dashboard/technician/page": "app/dashboard/technician/page.js",
+  "/dashboard/technician/tasks/page": "app/dashboard/technician/tasks/page.js",
+  "/page": "app/page.js"
+}
